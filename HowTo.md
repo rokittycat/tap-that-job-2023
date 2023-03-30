@@ -27,12 +27,12 @@ For extra directions, [go to the official react dev resources](https://react.dev
     - Add the welcome message
     - Mock replies
 4. structure the data
-6. add the API call to the React input & button
-7. call the openAPI. Here to you can think about wrapping the user input with a request of your own
+5. add the API call to the React input & button
+6. call the openAPI. Here to you can think about wrapping the user input with a request of your own
     eg: Translate the input into emojis
-8. manage the response. Feel free to manipulate that response too
-9. manage the chat history
-10. add the shiny stuff - typed responses, reactions, style, token count down. explore more of the openai options
+7. manage the response. Feel free to manipulate that response too
+8. manage the chat history
+9. add the shiny stuff - typed responses, reactions, style, token count down. explore more of the openai options
 
 For extra directions, [Follow this article](https://www.freecodecamp.org/news/generate-images-using-react-and-dall-e-api-react-and-openai-api-tutorial/).
 
