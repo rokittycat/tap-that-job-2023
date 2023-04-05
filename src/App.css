@@ -102,6 +102,19 @@
 .openai-bubble .type-writer {
   margin: 0;
 }
+.image-container {
+  position: relative;
+  text-align: center;
+}
+.text-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: monospace;
+  font-size: 50px;
+  mix-blend-mode: difference;
+}
 
 /* --- Input Area style --- */
 .input-area {
